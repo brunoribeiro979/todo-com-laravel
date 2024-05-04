@@ -94,5 +94,9 @@
                 element.style.display = 'block';
             });
         }
+
+        function teste() {
+            'teste commit';
+        }
     </script>
 </x-layout>
